@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=300&section=header&text=MS-LIMA%20&fontSize=90&color=0:d9d9d9,100:a6a6a6&fontColor=292929)
 
 # Skills
-___
 <h3 align="center">WEB</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>&nbsp
