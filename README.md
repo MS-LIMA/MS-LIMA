@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=300&section=header&text=MS-LIMA%20&fontSize=90&color=0:d9d9d9,100:a6a6a6&fontColor=292929)
 
+# Skills
+___
 <h3 align="center">WEB</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>&nbsp
@@ -24,8 +26,6 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>&nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>&nbsp
 </p>
-
-
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
